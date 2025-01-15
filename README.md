@@ -55,9 +55,8 @@ Once the versioning process is set up, the non-code assets in S3 will automatica
 The project will be organized as follows:
 
 ```
-s3-versioning-projects/
+s3-versioning-project/
 │
-├── software-development/
 │   ├── requirements.txt              # Python dependencies (e.g., boto3, gitpython)
 │   ├── versioning.py                 # Script to enable versioning for non-code assets
 │   ├── sync_assets.py                # Script to sync non-code assets with S3
