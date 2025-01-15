@@ -1,5 +1,7 @@
 # **Automated Release Management for Code Repositories**
 
+# **Domain : Software Development**
+
 ## **Problem Statement**
 
 In software development, maintaining multiple versions of the codebase is crucial. While **Git** is excellent for managing versions of code, it falls short when it comes to non-code artifacts. Non-code assets like **configuration files**, **documentation**, and **binaries** are essential for releases but are not managed in Git repositories in the same way as code files. This can lead to difficulties in tracking versions, consistency issues during deployment, and potential errors in production environments.
