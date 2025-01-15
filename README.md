@@ -1,6 +1,6 @@
 # **Automated Release Management for Code Repositories**
 
-# **Domain : Software Development**
+## **Domain : Software Development**
 
 ## **Problem Statement**
 
